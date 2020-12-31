@@ -6,6 +6,11 @@ First ever fully on-chain DEX aggregator protocol by 1inch
 [![Coverage Status](https://coveralls.io/repos/github/CryptoManiacsZone/1split/badge.svg?branch=master)](https://coveralls.io/github/CryptoManiacsZone/1split?branch=master)
 [![Built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 
+ ```js
+ganache-cli  -f https://mainnet.infura.io/v3/[YOUR INFURA KEY] -d -i 66 --unlock 0x78bc49be7bae5e0eec08780c86f0e8278b8b035b -l 8000000
+
+ ```
+
 # Integration
 
 Latest version is always accessible at [1split.eth](https://etherscan.io/address/1split.eth) (beta on [1proto.eth](https://etherscan.io/address/1proto.eth))
